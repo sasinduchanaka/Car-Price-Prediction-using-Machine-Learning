@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction using Machine Learning (Ongoing)
+# 🚗 Car Price Prediction using Machine Learning
 
 ## 📌 Overview
 This project aims to predict the **resale value of used cars** based on various specifications such as manufacturing year, mileage, fuel type, and engine capacity.  
